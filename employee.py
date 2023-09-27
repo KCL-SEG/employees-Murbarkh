@@ -97,7 +97,7 @@ charlie = HourlyContractEmployee('Charlie', 25, 100)
 renee = SalaryContractContractComissionEmployee('Renee', 3000, 200, 4)
 
 # Jan works on a contract of 150 hours at 25/hour and receives a commission for 3 contract(s) at 220/contract.  Their total pay is 4410.
-jan = HourlyContractContractComissionEmployee('Jan', 150, 25, 220, 3)
+jan = HourlyContractContractComissionEmployee('Jan', 25, 150, 220, 3)
 
 # Robbie works on a monthly salary of 2000 and receives a bonus commission of 1500.  Their total pay is 3500.
 robbie = SalaryContractBonusComissionEmployee('Robbie', 2000, 1500)
